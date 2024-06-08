@@ -3,7 +3,7 @@
 ## Anggota
 
 - Salsabila Amalia Harjanto (5027221023)
-- Ditya Wahyu ()
+- Ditya Wahyu Ramadhan (5027221051)
 
 ## Laporan Resmi Modul 4
 
