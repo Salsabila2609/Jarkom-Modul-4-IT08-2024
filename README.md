@@ -691,11 +691,11 @@ Untuk mempermudah proses routing, disini saya menandai IP untuk setiap node
 
 > VLSM atau biasa dikenal sebagai Variable Length Subnet Masking merupakan teknik subnetting untuk mengefisienkan pembagian IP di dalam jaringan. Besar netmask disesuaikan dengan banyaknya komputer / host yang membutuhkan alamat IP
 
-Dalam suatu subnet. Dengan menggunakan VLSM, kita dapat mengalokasikan blok alamat IP yang sesuai dengan kebutuhan tiap subnet, tanpa perlu mengikuti batasan-batasan yang seragam. Ini memungkinkan administrator jaringan untuk lebih fleksibel dalam mengoptimalkan penggunaan alamat IP dan menghindari pemborosan sumber daya.
+> Dalam suatu subnet. Dengan menggunakan VLSM, kita dapat mengalokasikan blok alamat IP yang sesuai dengan kebutuhan tiap subnet, tanpa perlu mengikuti batasan-batasan yang seragam. Ini memungkinkan administrator jaringan untuk lebih fleksibel dalam mengoptimalkan penggunaan alamat IP dan menghindari pemborosan sumber daya.
 
-Proses implementasi VLSM melibatkan pemecahan suatu jaringan besar menjadi subnet yang lebih kecil dengan ukuran yang berbeda-beda. Setiap subnet kemudian diberikan netmask sesuai dengan jumlah host yang diperlukan di dalamnya. Dengan cara ini, subnet yang memiliki lebih banyak host akan mendapatkan netmask dengan jumlah bit yang lebih sedikit, sementara subnet yang membutuhkan lebih sedikit host akan memiliki netmask dengan jumlah bit yang lebih banyak.
+> Proses implementasi VLSM melibatkan pemecahan suatu jaringan besar menjadi subnet yang lebih kecil dengan ukuran yang berbeda-beda. Setiap subnet kemudian diberikan netmask sesuai dengan jumlah host yang diperlukan di dalamnya. Dengan cara ini, subnet yang memiliki lebih banyak host akan mendapatkan netmask dengan jumlah bit yang lebih sedikit, sementara subnet yang membutuhkan lebih sedikit host akan memiliki netmask dengan jumlah bit yang lebih banyak.
 
-Keunggulan utama dari VLSM adalah efisiensi penggunaan alamat IP, karena kita dapat menghindari memberikan subnet dengan ukuran yang besar kepada jaringan kecil yang sebenarnya hanya membutuhkan sejumlah kecil alamat IP. Selain itu, VLSM juga membantu dalam mengurangi konsumsi alamat IP secara keseluruhan di dalam jaringan, sehingga dapat mendukung pertumbuhan dan perluasan jaringan secara lebih efektif.
+> Keunggulan utama dari VLSM adalah efisiensi penggunaan alamat IP, karena kita dapat menghindari memberikan subnet dengan ukuran yang besar kepada jaringan kecil yang sebenarnya hanya membutuhkan sejumlah kecil alamat IP. Selain itu, VLSM juga membantu dalam mengurangi konsumsi alamat IP secara keseluruhan di dalam jaringan, sehingga dapat mendukung pertumbuhan dan perluasan jaringan secara lebih efektif.
 
 ---
 
@@ -726,7 +726,6 @@ Berikut adalah hasil dari pembagian ip yang di dapat dari proses pemecah sebelum
 ![GambarconfigVLsm](https://github.com/Salsabila2609/Jarkom-Modul-4-IT08-2024/assets/128382995/190fe344-b94b-4d3b-be33-9c7101356bbe)
 
 ![Gambarpanduanmelakukan test ](https://github.com/Salsabila2609/Jarkom-Modul-4-IT08-2024/assets/128382995/014d7439-e2d9-44ff-beae-d0b968c798f4)
-
 
 ![Gambartest](https://github.com/Salsabila2609/Jarkom-Modul-4-IT08-2024/assets/128382995/27d00bed-eba8-4c38-a1d7-550377c5cd54)
 
