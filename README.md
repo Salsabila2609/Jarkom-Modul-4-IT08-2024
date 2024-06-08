@@ -701,7 +701,7 @@ Keunggulan utama dari VLSM adalah efisiensi penggunaan alamat IP, karena kita da
 
 ### Topologi
 
-
+![GambarTopologiVLSMCPT](https://github.com/Salsabila2609/Jarkom-Modul-4-IT08-2024/assets/128382995/f64e0ad7-9b08-401a-b22a-7afac1304cef)
 
 ---
 
@@ -722,6 +722,13 @@ Berikut adalah hasil dari pembagian ip yang di dapat dari proses pemecah sebelum
 ---
 
 ### Testing
+
+![GambarconfigVLsm](https://github.com/Salsabila2609/Jarkom-Modul-4-IT08-2024/assets/128382995/190fe344-b94b-4d3b-be33-9c7101356bbe)
+
+![Gambarpanduanmelakukan test ](https://github.com/Salsabila2609/Jarkom-Modul-4-IT08-2024/assets/128382995/014d7439-e2d9-44ff-beae-d0b968c798f4)
+
+
+![Gambartest](https://github.com/Salsabila2609/Jarkom-Modul-4-IT08-2024/assets/128382995/27d00bed-eba8-4c38-a1d7-550377c5cd54)
 
 ---
 
