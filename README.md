@@ -673,7 +673,41 @@ Untuk mempermudah proses routing, disini saya menandai IP untuk setiap node
 
 ### Testing
 
+**Starland ke Ternate**
+
+![Screenshot 2024-06-08 200537](https://github.com/Salsabila2609/Jarkom-Modul-4-IT08-2024/assets/128382995/1491f4a2-9de8-48d4-a890-17e183183307)
+
+**Sabang ke Batakan**
+
+![Screenshot 2024-06-08 200615](https://github.com/Salsabila2609/Jarkom-Modul-4-IT08-2024/assets/128382995/4aca805b-1f00-4a16-89ad-5a2786303169)
+
+**Gorontalo ke Kalimantan Timur**
+
+![Screenshot 2024-06-08 200720](https://github.com/Salsabila2609/Jarkom-Modul-4-IT08-2024/assets/128382995/789c163f-0ea6-4f20-b9e9-37776fc4a83f)
+
 ---
+
+## **VLSM**
+
+> VLSM atau biasa dikenal sebagai Variable Length Subnet Masking merupakan teknik subnetting untuk mengefisienkan pembagian IP di dalam jaringan. Besar netmask disesuaikan dengan banyaknya komputer / host yang membutuhkan alamat IP
+
+> Dalam suatu subnet. Dengan menggunakan VLSM, kita dapat mengalokasikan blok alamat IP yang sesuai dengan kebutuhan tiap subnet, tanpa perlu mengikuti batasan-batasan yang seragam. Ini memungkinkan administrator jaringan untuk lebih fleksibel dalam mengoptimalkan penggunaan alamat IP dan menghindari pemborosan sumber daya.
+
+> Proses implementasi VLSM melibatkan pemecahan suatu jaringan besar menjadi subnet yang lebih kecil dengan ukuran yang berbeda-beda. Setiap subnet kemudian diberikan netmask sesuai dengan jumlah host yang diperlukan di dalamnya. Dengan cara ini, subnet yang memiliki lebih banyak host akan mendapatkan netmask dengan jumlah bit yang lebih sedikit, sementara subnet yang membutuhkan lebih sedikit host akan memiliki netmask dengan jumlah bit yang lebih banyak.
+
+> Keunggulan utama dari VLSM adalah efisiensi penggunaan alamat IP, karena kita dapat menghindari memberikan subnet dengan ukuran yang besar kepada jaringan kecil yang sebenarnya hanya membutuhkan sejumlah kecil alamat IP. Selain itu, VLSM juga membantu dalam mengurangi konsumsi alamat IP secara keseluruhan di dalam jaringan, sehingga dapat mendukung pertumbuhan dan perluasan jaringan secara lebih efektif.
+
+---
+
+### Tree
+Berikut adalah tree yang digunakan untuk memecah subnet besar menjadi jaringan yang lebih kecil 
+
+![gambarvlsm1](https://github.com/Salsabila2609/Jarkom-Modul-4-IT08-2024/assets/128382995/f043d2aa-e0b3-4d67-b58f-d68b0759f5b5)
+
+Berikut adalah hasil dari pembagian ip yang di dapat dari proses pemecah sebelumnya sehingga menjadi jaringan yang lebih kecil  
+
+![gambarvlsm2 ](https://github.com/Salsabila2609/Jarkom-Modul-4-IT08-2024/assets/128382995/82e34447-f45b-40bc-b7df-0063c3bb4a62)
+
 
 
 
