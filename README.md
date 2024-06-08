@@ -10,7 +10,7 @@
 > Soal shift dikerjakan pada Cisco Packet Tracer dan GNS3 menggunakan metode perhitungan CLASSLESS yang berbeda.
 > Keterangan: Bila di CPT menggunakan VLSM, maka di GNS3 menggunakan CIDR atau sebaliknya
 
-### Rute
+## Rute
 
 ![rute](https://github.com/Salsabila2609/Jarkom-Modul-4-IT08-2024/assets/128382995/5ce685fb-f585-4e1d-a30b-15a872292de7)
 
@@ -96,6 +96,8 @@ Berikut merupakan langkah penggabungan pada topologi kami
 Berdasarkan hasil penggabungan IP, disini kami menyusun tree untuk pembagian IP yang akan digunakan sebagai dasar konfigurasi
 
 ### Tree
+
+![tree_cidr](https://github.com/Salsabila2609/Jarkom-Modul-4-IT08-2024/assets/128382995/076720bc-4d7f-4891-9d28-f052b7965dbc)
 
 ### Pembagian IP
 
